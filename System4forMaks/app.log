@@ -1,0 +1,10 @@
+апр. 18, 2025 12:14:34 AM DebugHelper logInfo
+INFO: Запуск программы
+апр. 18, 2025 12:14:42 AM DebugHelper logInfo
+INFO: Вызов loopMultiply(a=2, b=3)
+апр. 18, 2025 12:14:42 AM DebugHelper logInfo
+INFO: Результат loopMultiply: 6
+апр. 18, 2025 12:14:42 AM DebugHelper logInfo
+INFO: Успешное завершение, результат: 6
+апр. 18, 2025 12:14:42 AM DebugHelper logInfo
+INFO: Завершение работы программы
